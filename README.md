@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/sahil.b__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahil.b___" height="30" width="40" /></a>
+<a href="https://instagram.com/sahil.b___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahil.b___" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/AhTXxeQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/AhTXxeQ" height="30" width="40" /></a>
 </p>
 
@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil0718&show_icons=true&locale=en&layout=compact" alt="sahil0718" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil0718&" alt="sahil0718" /></p>
+
 
 
 
