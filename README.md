@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 
 
 
-## Here is my contribution getting eaten up by a 🐍
+## Here is my contributions getting eaten up by a 🐍
 ![snake gif](https://github.com/Sahil0718/Sahil0718/blob/output/github-contribution-grid-snake.svg)
