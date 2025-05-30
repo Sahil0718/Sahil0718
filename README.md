@@ -31,9 +31,3 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil0718&show_icons=true&locale=en&layout=compact" alt="sahil0718" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil0718&" alt="sahil0718" /></p>
-
-
-
-
-## Here is my contributions getting eaten up by a 🐍
-![snake gif](https://github.com/Sahil0718/Sahil0718/blob/output/github-contribution-grid-snake.svg)
